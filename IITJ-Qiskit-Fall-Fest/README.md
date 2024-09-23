@@ -1,15 +1,15 @@
-<img src='https://user-images.githubusercontent.com/57539040/192017606-8961285b-b216-4296-94ea-62887114679d.png' width = 90% align=center>
+<img src='https://github.com/ShisheerKaushik24/quantum-club-iitj/blob/master/IITJ-Qiskit-Fall-Fest/pics/172486950593689.jpg' width = 90% align=center>
 
 # IITJ Qiskit Fall Fest 2024 <img src='https://user-images.githubusercontent.com/57539040/192014644-17059a72-435d-4384-afce-0a581096c09f.png' height = 4% width = 4% align=center>
 
-We're so exciting to have you all here. This event is being hosted at the [IndianInstitute of Technology Jodhpur (IIT J](https://iitj.ac.in/qic/).
+We're so exciting to have you all here. This event is being hosted at the [Indian Institute of Technology Jodhpur (IIT J](https://iitj.ac.in/qic/).
 
-The Fall Fest at IITJ this year is going to be a **in-person workshops + quantum challenge** format, starting on October, 2024. Details about the event and rules can be found below. The deadline for registration is October 20th, at 12pm CET. We are looking forward to seeing you at the event!
+The Fall Fest at IITJ this year is going to be a **in-person workshops + quantum challenge** format, starting on October <date>, 2024. Details about the event and rules can be found below. The deadline for registration is October <date>th, at 12pm IST. We are looking forward to seeing you at the event!
 
 The [Qiskit Fall Fest](https://qiskit.org/events/fall-fest/) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM throughout the month of September to design and plan their event, which are then run in October. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
 
 The Fall Fest here at IIT-J is going to be a mix of _workshops followed by an online challenge_, with **prizes sponsored by the Institute!**
-Starting from October 3rd. The details and timeline about the event are going to be posted here in a few days, so stay tuned
+Starting from October <date>. The details and timeline about the event are going to be posted here in a few days, so stay tuned
 
 --------------------------------
 ## Official Registration
